@@ -1,4 +1,5 @@
 Telegram bot on python 3.14.2
+
 For playing BlackJack
 
 ### Features
@@ -26,6 +27,7 @@ pip install -r requirements.txt
 ```
 #### 4. .env
 Create `.env` file in project directory
+ 
 Add token for your bot from @BotFather
 ``` .env
 TOKEN=[your token]
